@@ -131,6 +131,6 @@ Após seguir todos os passos:
 
 Agora é só rodar, jogar e evoluir o **Julgamento do Viajante**! ⚔️🔥
 
-**Autor:** Milene Vitória
-**Projeto:** Julgamento do Viajante
-**Tecnologias:** Java 25 • JavaFX 25 • IntelliJ IDEA Community
+- **Autor:** Milene Vitória
+- **Projeto:** Julgamento do Viajante
+- **Tecnologias:** Java 25 • JavaFX 25 • IntelliJ IDEA Community
